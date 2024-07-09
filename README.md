@@ -1,5 +1,4 @@
 
-![DBeaver Client](images/sqllogo.png)
 
 # SQL Projects
 
