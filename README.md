@@ -1,5 +1,4 @@
 
-![DBeaver Client](images/sqllogo.png)
 
 # SQL Projects
 
@@ -9,6 +8,7 @@ This project contains sql files related to data analysis, optimizations, manipul
 
 - Introduction
 - Features
+- SQL Dialect
 - Installation
 - Usage
 - Examples
@@ -30,6 +30,10 @@ I have created this repository to include all kinds of queries available in sql.
   - Query Optimization for better performance
 
   - Tons of queries related to aggregate functions
+
+## SQL Dialect Used
+
+- **PostgreSQL (psql):**  Most of the scripts in this repository is written for PostgresSQL. 
 
 ## Installation
 
